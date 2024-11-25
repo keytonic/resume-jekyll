@@ -1,0 +1,33 @@
+#bundle exec jekyll serve
+
+title: Interactive Resume
+profile_img: /assets/img/me2.png
+icon_img: /assets/img/icon.webp
+
+name: "Andrew Towner"
+job: "Web Developer"
+
+phone_number: 262-960-6309
+address: 110 Hidden Ln. Seaford, VA
+email: andrew@andrewtowner.com
+linkedin_username: townera
+github_username: keytonic
+instagram_username: drootown
+twitter_username: drootown
+facebook_username: keytonic
+youtube_username: drootown
+blog_url: https://www.andrewtowner.com
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl: /myresume
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

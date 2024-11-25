@@ -1,0 +1,21 @@
+
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+
+  - title: Park University
+    description: 'Bachelor of Science, Information & Computer Science: Web Development'
+    date: Dec. 2024
+
+  - title: Community College of the Air Force
+    description: 'Associate in Applied Science, Instructor Of Technology And Military Science'
+    date: Mar. 2016
+
+  - title: Community College of the Air Force
+    description: 'Associate in Applied Science, Avionics Systems Technology'
+    date: Jul. 2013
+
+  - title: Lackawanna College
+    description: 'Associate in Science, Computer Information Systems'
+    date: May. 2004

@@ -1,0 +1,115 @@
+subject: U.S. Air Force
+listing-order: 2
+icon: "/assets/img/usaf.svg"
+contents:
+
+  - title: Lead Command A-10 Avionics Program Manager
+    role: HQ ACC, A4A, Langley AFB, VA
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Feb. 2023 - Present
+
+  - title: F-16 Production Superintendent
+    role: 756 AMXS, 310 AMU, Luke AFB, AZ
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: May. 2022 - Feb. 2023
+
+  - title: Specialist Section Chief
+    role: 756 AMXS, 310 AMU, Luke AFB, AZ
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Aug. 2021 - May. 2022
+
+  - title: Support Section Chief
+    role: 756 AMXS, 309 AMU, Luke AFB, AZ
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Jun. 2020 - Aug. 2021
+
+
+  - title: F-16 Specialist Expediter
+    role: 756 AMXS, 309 AMU, Luke AFB, AZ
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Sep. 2019 - Jun. 2020
+
+
+  - title: Section Chief
+    role: 365 TRS, Sheppard AFB, TX
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Dec. 2018 - Sep. 2019
+
+  - title: Instructor Supervisor
+    role: 365 TRS, Sheppard AFB, TX
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Sep. 2016 - Dec. 2018
+
+  - title: Technical Training Instructor, A-10 Avionics
+    role: 365 TRS, Sheppard AFB, TX
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Sep. 2015 - Sep. 2016
+
+  - title: A-10 Specialist Expediter
+    role: 355 AMXS, 357 AMU, Davis-Monthan AFB, AZ
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Mar. 2015 - Sep. 2015
+
+  - title: A-10 Avionics Technician
+    role: 355 AMXS, 358 AMU, Davis-Monthan AFB, AZ
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Jul. 2011 - Mar. 2015
+
+  - title: F-15 Avionics Technician
+    role: 4 AMXS, 336 AMU, Seymour Johnson AFB, NC
+    description:
+      - Stuff i did
+      - Stuff i did
+    date: Mar. 2008 - Jul. 2011
+
+
+  - title: Student
+    role: 
+      - 365 TRS, Sheppard AFB, TX
+      - 332 TRS, Keesler AFB, MS
+    date: Aug. 2007 - Mar. 2008
+
+  - title: Basic Trainee
+    role: 323 TRS, Lackland AFB, TX
+    date: Jun. 2007 - Aug. 2007 
+
+
+
+#  - title: Nanosoft
+#    role: Project Manager
+#    description:
+#      - Led development of a new chatbot software utilizing large language model
+#      - Co-designer of '*Kopilot*' and '*Gemmini*'
+#    date: Jan. 2024 - Ongoing
+#  - title: Amazone
+#    role: Senior Software Engineer
+#    description: 
+#      - Built a Java microservice, database schema to manage customer accounts
+#      - Enhanced internal pipelines to query real-time data from client devices
+#    date: Apr. 2016 - Dec. 2018
+#  - title: Pacebook
+#    role: Software Engineer Intern
+#    description: 
+#      - Designed the dynamic website using React for data visualization
+#      - Integrated '*Yolo*' to boost the accuracy of the object detection
+#    date: Jul. 2013 - Sep. 2013
