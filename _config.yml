@@ -1,5 +1,7 @@
 #bundle exec jekyll serve
 
+destination: dist/
+
 title: Interactive Resume
 profile_img: /assets/img/me2.png
 icon_img: /assets/img/icon.webp
