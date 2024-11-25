@@ -1,0 +1,20 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+
+- title: "[My Portfolio](https://www.andrewtowner.com/)"
+  description: My personal portfolio highlights a selection of recent projects, a detailed resume, and an overview of my technical skills.
+  image: "![thumb](https://andrewtowner.com/projects/portfolio/ss.png)"
+
+- title: "[Personal Bill Tracker](https://andrewtowner.com/projects/bills.v2/)"
+  description: This project provides a reliable, user-friendly tool for tracking and managing personal bills.
+  image: "![thumb](https://andrewtowner.com/projects/bills.v2/images/ss/ss1.png)"
+
+- title: "[wp-login-mod](https://github.com/keytonic/wp-login-mod)"
+  description: A user-friendly WordPress plugin that redirects all visitors to the login page, transforming your site into a private, login-only landing page. It also allows you to disable new user registration, display a custom message on the login page, and add custom CSS and JavaScript. Built with PHP and JavaScript.
+  image: "![thumb](https://raw.githubusercontent.com/keytonic/wp-login-mod/main/images/4.png)"
+
+- title: "[Tom’s Nuisance Critter Control](https://www.trappertom.com/)"
+  description: I developed the website and custom theme for trappertom.com using PHP, JavaScript, CSS, HTML, and WordPress. PHP powers the backend, while JavaScript adds interactivity. CSS and HTML create a responsive, visually appealing layout, and the WordPress platform ensures easy content management and customization.
+  image: "![thumb](https://trappertom.com/ss.png)"

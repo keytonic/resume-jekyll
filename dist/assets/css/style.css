@@ -378,3 +378,6 @@ a {
     max-width: 1024px; }
     #contents img {
       max-width: 100%; } }
+#contents img[alt="thumb"] {
+  width: 250px;
+  height: 167px; }
